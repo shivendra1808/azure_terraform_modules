@@ -2,7 +2,7 @@
 .terraform/
 *.tfstate
 *.tfstate.*
-*.tfvars
+#*.tfvars
 
 # Terraform crash logs
 crash.log
